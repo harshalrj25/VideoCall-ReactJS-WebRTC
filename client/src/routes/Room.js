@@ -111,7 +111,6 @@ const Room = (props) => {
           });
           setPeers(peers);
         });
-        mediaStreamTrack = stream;
         socketRef.current.on("user joined", (payload) => {
           console.log("==",payload)
           const peer = addPeer(payload.signal, payload.callerID, stream);
