@@ -1,5 +1,21 @@
 # VideoCall-ReactJS-WebRTC :loudspeaker:
-This repo demonstrate a simple React component which uses WebRTC for video calling.
+ReactJS app which uses WebRTC via [simple-peer](https://www.npmjs.com/package/simple-peer) for video calling.
+
+The code is also deployed to heroku at https://videocall-reactjs-webrtc.herokuapp.com/
+
+<img src="https://raw.githubusercontent.com/harshalrj25/MasterAssetsRepo/master/videocall.gif" width="500">
+
+## Features:
+ Group video calling<br>
+ Room based video calls<br>
+ Turn on/off webcam<br>
+ Turn on/off mic<br>
+ Procfile and node engine scripts included for heroku deployment<br>
+ 
+
+## Limitations:
+
+ Number of participants limited to 4
 
 
 ## Author :innocent:
