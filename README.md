@@ -5,6 +5,14 @@ The code is also deployed to heroku at https://videocall-reactjs-webrtc.herokuap
 
 <img src="https://raw.githubusercontent.com/harshalrj25/MasterAssetsRepo/master/videocall.gif" width="500">
 
+## How to use:
+ 1) Open the url in browser (Either your own localhost or https://videocall-reactjs-webrtc.herokuapp.com)
+
+ 2) Click on create room
+
+ 3) Once a room is created copy the new url in the browser and share with others (For testing open the new url with incognito mode)
+
+
 ## Features:
  Group video calling<br>
  Room based video calls<br>
